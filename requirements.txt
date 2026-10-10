@@ -1,0 +1,7 @@
+tensorflow>=2.15
+datasets>=2.19
+scikit-learn
+matplotlib
+numpy
+pillow
+streamlit
